@@ -5,18 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>web-course</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>experiment-02</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>experiment-01</module>
-        <module>experiment-02</module>
-        <module>experiment-03</module>
-        <module>experiment-05</module>
-        <module>experiment-06</module>
-        <module>experiment-07</module>
-        <module>myweb</module>
 
-    </modules>
-
+    
 </project>
